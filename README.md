@@ -4,6 +4,7 @@ Modificación fallo tipo 2 Juanan.
 
 README MODIFICADO LOCAL TIPO 3
 
+Modificacion para el tipo 3
 
 
 
