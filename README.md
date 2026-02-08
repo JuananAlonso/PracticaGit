@@ -6,5 +6,5 @@ README MODIFICADO LOCAL TIPO 3
 
 Modificacion para el tipo 3
 
-
+Nueva funcionalidad añadida: customización de los colores del juego. 
 
